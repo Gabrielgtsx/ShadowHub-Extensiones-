@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "providers": [
+    {
+      "name": "Lacartoons",
+      "language": "es",
+      "mainClass": "com.nafsx.shadowhub.providers.remotos.LacartoonsProvider",
+      "dexUrl": "https://github.com/user-attachments/files/22454317/LacartoonsProvider.zip",
+      "sha256": "1E2ABD0260A6E3221BAE73C2EDF4557B8EF6A15A8F296700BDBE5942E30CA842"
+    }
+  ]
+}
