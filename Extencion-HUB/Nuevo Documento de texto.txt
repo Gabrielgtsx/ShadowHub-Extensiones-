@@ -1,1 +1,0 @@
-& "C:\Users\fxxna\AppData\Local\Android\Sdk\build-tools\35.0.0\d8.bat" classes.jar --output .
