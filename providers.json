@@ -4,7 +4,7 @@
     {
       "name": "Lacartoons",
       "version": "1.0.0",
-      "logoUrl": "URL_DEL_LOGO_DE_LACARTOONS.png",
+      "logoUrl": "https://i.ibb.co/V01tsgSq/lacartoons-1.png",
       "language": "es",
       "mainClass": "com.nafsx.shadowhub.providers.remotos.LacartoonsProvider",
       "dexUrl": "https://github.com/Gabrielgtsx/ShadowHub-Extensiones-/releases/download/v1.0.0-providers/LacartoonsProvider.dex",
