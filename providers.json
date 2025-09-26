@@ -3,7 +3,7 @@
   "providers": [
     {
       "name": "Lacartoons",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "logoUrl": "https://i.ibb.co/V01tsgSq/lacartoons-1.png",
       "language": "es",
       "mainClass": "com.nafsx.shadowhub.providers.remotos.LacartoonsProvider",
